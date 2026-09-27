@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kasturi-chavan-99/DSA/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/kasturi-chavan-99/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasturi-chavan-99/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kasturi-chavan-99/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
