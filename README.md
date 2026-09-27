@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-chavan-99/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kasturi-chavan-99/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kasturi-chavan-99/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kasturi-chavan-99/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kasturi-chavan-99/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
