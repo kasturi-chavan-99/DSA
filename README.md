@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kasturi-chavan-99/DSA/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kasturi-chavan-99/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kasturi-chavan-99/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kasturi-chavan-99/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
